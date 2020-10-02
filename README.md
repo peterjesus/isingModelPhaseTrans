@@ -6,7 +6,7 @@ Numerical Analysis of Phase transition in the 2D-Ising model
 
 This code has been done using:
 
-* [Fprtran](https://github.com/opencv/opencv)
+* [Fortran](https://github.com/fortran-lang)
 
 ## Introduction
 
@@ -17,3 +17,5 @@ The tasks covered with this code and gathered in the .dat files are:
 * Calculate E/J and M for each spin configuration
 * For each M, calculate Z and F(M,T)/J 
 * Plot F(M) for each value of T
+
+All these tasks are done by using the `2Dising.f` file
