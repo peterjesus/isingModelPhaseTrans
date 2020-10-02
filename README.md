@@ -4,9 +4,9 @@ Numerical Analysis of Phase transition in the 2D-Ising model
 
 ## Prerequisites
 
-It is needed to previously install:
+This code has been done using:
 
-* https://github.com/fortran-lang
+* [Fprtran](https://github.com/opencv/opencv)
 
 ## Introduction
 
