@@ -6,7 +6,7 @@ Numerical Analysis of Phase transition in the 2D-Ising model
 
 It is needed to previously install:
 
-* [Fotran] (https://github.com/fortran-lang)
+* https://github.com/fortran-lang
 
 ## Introduction
 
